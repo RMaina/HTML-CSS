@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> BUCKETLIST APP  </title>
+        <style>
+        h1 { color: pink; 
+        }
+        body {background-color: orange;
+        }
+        #bucketlist {background-color: brown
+        }
+        #login-page {text-align :center
+        }
+        
+        </style>
+    </head>
+    <body>
+    </body>
+    
+    <h1 id="bucketlist"> BUCKETLIST </h1>
+    <img src="http://www.karentuiboyes.com/wp-content/uploads/2014/10/bucketList.jpg" alt=" White Bucket" width="100">
+    <p="login-page"> Do you ever what it would be 
+    like if you could do everything 
+    you set your mind to?<strong> Let us help </strong> 
+    you <em> remember </em> and link you with 
+    people who have similar interests
+    Join us!! <p>
+    
+    <table id="login-page">
+        <tbody>
+            <tr>
+            <td> NAME </td>
+            </tr>
+            <tr>
+            <td> PASSWORD </td>
+            </tr>
+            
+        
+        </tbody>
+    </table>
+
+</html>
